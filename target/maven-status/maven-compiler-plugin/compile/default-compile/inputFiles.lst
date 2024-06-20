@@ -1,0 +1,16 @@
+D:\Learning\MyProjects\Todo Management Applicaiton\Backend\src\main\java\com\todomanagement\Backend\BackendApplication.java
+D:\Learning\MyProjects\Todo Management Applicaiton\Backend\src\main\java\com\todomanagement\Backend\Controller\TodoController.java
+D:\Learning\MyProjects\Todo Management Applicaiton\Backend\src\main\java\com\todomanagement\Backend\Database\DatabaseSequence.java
+D:\Learning\MyProjects\Todo Management Applicaiton\Backend\src\main\java\com\todomanagement\Backend\Database\SequenceGenerator.java
+D:\Learning\MyProjects\Todo Management Applicaiton\Backend\src\main\java\com\todomanagement\Backend\Entities\AppUser.java
+D:\Learning\MyProjects\Todo Management Applicaiton\Backend\src\main\java\com\todomanagement\Backend\Entities\Credentials.java
+D:\Learning\MyProjects\Todo Management Applicaiton\Backend\src\main\java\com\todomanagement\Backend\Entities\Email.java
+D:\Learning\MyProjects\Todo Management Applicaiton\Backend\src\main\java\com\todomanagement\Backend\Entities\Todos.java
+D:\Learning\MyProjects\Todo Management Applicaiton\Backend\src\main\java\com\todomanagement\Backend\Entities\UserAuthorization.java
+D:\Learning\MyProjects\Todo Management Applicaiton\Backend\src\main\java\com\todomanagement\Backend\Repository\AppUserRepository.java
+D:\Learning\MyProjects\Todo Management Applicaiton\Backend\src\main\java\com\todomanagement\Backend\Repository\DBSequenceRepository.java
+D:\Learning\MyProjects\Todo Management Applicaiton\Backend\src\main\java\com\todomanagement\Backend\Repository\TodosRepository.java
+D:\Learning\MyProjects\Todo Management Applicaiton\Backend\src\main\java\com\todomanagement\Backend\Security\MongoDBUserDetailsService.java
+D:\Learning\MyProjects\Todo Management Applicaiton\Backend\src\main\java\com\todomanagement\Backend\Security\SecurityConfiguration.java
+D:\Learning\MyProjects\Todo Management Applicaiton\Backend\src\main\java\com\todomanagement\Backend\Service\Base64EncodingService.java
+D:\Learning\MyProjects\Todo Management Applicaiton\Backend\src\main\java\com\todomanagement\Backend\Service\EmailService.java
